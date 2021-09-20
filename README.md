@@ -1,1 +1,1 @@
-Netflix Like Clone Project for demo
+Netflix Like Movie Search Application using React and Redux
