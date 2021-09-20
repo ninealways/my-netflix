@@ -1,0 +1,16 @@
+.menu-list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+
+    li{
+        padding: 0.3rem 1rem;
+        list-style: none;
+        
+        a {
+            text-decoration: none;
+        }
+    }
+}
